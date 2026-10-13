@@ -2,8 +2,8 @@
 /out/
 
 # Project caches
-# proj/fir.cpp
-# proj/fir.h
+proj/fir.cpp
+proj/fir.h
 
 # from Read_the_docs
 
